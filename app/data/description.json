@@ -1,0 +1,11 @@
+[
+  { "nom" : " MAUREL",
+    "prenom": "Héloïse",
+    "age" : "23 ans",
+    "contact": "maurel.heloise@etu.unice.fr",
+    "situation": "Étudiante à Polytech Nice-Sophia Antipolis en 3ème année d'informatique",
+    "promotion" : "2014-2015",
+    "id" : 0
+  }
+
+]

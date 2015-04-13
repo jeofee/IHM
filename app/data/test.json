@@ -1,0 +1,60 @@
+{
+  "mes_langages" : [
+    "Python",
+    "Scheme",
+    "C",
+    "Java",
+    "JavaScript",
+    "Html",
+    "CSS",
+    "Netlogo",
+    "Prolog",
+    "Langage R",
+    "LaTeX",
+    "Scilab"
+  ],
+  "contact" : "maurel.heloise@etu.unice.fr",
+  "titre_experience" : {
+    "annee_debut" : "Étudiante en 3ème année d'école d'ingénieur à Polytech Nice-Sophia",
+    "annee_fin" : "Ingénieur en Informatique"
+  },
+  "nom_prenom" : [
+    "MAUREL",
+    "Héloïse"
+  ],
+  "citation_automatique_du_jour" : [
+    "Le principe de l'évolution est beaucoup plus rapide en informatique que chez le bipède.",
+    "L'informatique, ça fait gagner beaucoup de temps... à condition d'en avoir beaucoup devant soi !",
+    "Nous autres, mordus d’informatique, préférons par-dessus tout passer notre temps à bidouiller nos ordinateurs, plutôt que les utiliser pour faire quelque chose de productif.",
+    " Il est hélas devenu évident aujourd'hui que notre technologie a dépassé notre humanité.",
+    "On peut définir la Science-Fiction comme la branche de la littérature qui se soucie des réponses de l'être humain aux progrès de la science et de la technologie."
+  ],
+  "experiences_Professionnelles" : [
+    {
+      " En Licence informatique à L'Université de Nice-Sophia ": [
+        {"Description " : "Nous étions un groupe de 3 étudiants à adopter une démarche scientifique : sur une thématique imposée, une problématique à trouver, une démarche pour modéliser le problème et sur l'analyse et l'interprétation de données. Le but était de d'aboutir à une réponse à la problématique",
+          " Durée ": "6 semaines ",
+          " Contraintes ": "obligation d'utiliser des logiciels imposées - langage R, Netlogo et LaTeX ; obligation d'apprendre de nouveaux langages ",
+          "En 3ème année d'école d'ingénieur": "Réalisation d'un programme simulant la coupe du monde de football avec toutes les phases de groupes et d'éliminations."
+        },
+        {
+          "projet_annee": [
+            "Projet Devint",
+            "OGL",
+            "Création d'un site web"
+          ],
+          "en_ce_moment": [
+            "Création d'un site Web",
+            "Projet Devint",
+            "OGL"
+          ],
+          "contenus_des_connaissances": [
+            "mathématique",
+            "informatique",
+            "outils logiciels"
+          ]
+        }
+      ]
+    }
+    ]
+}

@@ -1,0 +1,30 @@
+[
+  { "title" : "Création d'un système simulant la coupe de Monde de Football : ",
+    "description":"Le but de ce projet était de voir le niveau que nous avions en programmation afin de pouvoir former des groupes au sein de l'école.",
+    "contraintes" : "Apprendre en seulement 3 semaine le langage JAVA.",
+    "yearStart": 2014,
+    "yearEnd" : 2014,
+    "duree" : " 3 semaines",
+    "role" : "Concevoir, developper et tester le code",
+    "id" : 0
+  },
+  { "title" : "Création d'un logiciel DeViNT permettant de facilité l'apprentissage du braille pour les mal-voyants et les voyants : ",
+    "description":"DeViNT est l'acronyme de Déficients Visuels et Nouvelles Technologies. Ces projets du même nom sont nés il y a dix ans avec la journée DeViNT organisée d'abord par l'ESSI (Ecole Supérieure de Sciences Informatiques) puis par Polytech'Nice-Sophia en collaboration avec l'INRIA, le laboratoire I3S, et plusieurs associations, dont l'APEDV 06 (Association des parents d'élèves déficients visuels des Alpes Maritimes). En collaboration avec l'Institut Clément ADER, et l'école du Château, à Nice, deux établissements spécialisés qui accueillent des élèves handicapés, entre autres mal voyants et non voyants. Le but principale est de découvrir la problématique du handicap visuel,de rencontrer un public utilisateur déficient visuel,de mener un projet logiciel à terme, en collaboration avec ses utilisateurs",
+    "contraintes" : "Nous étions seulement 2 par rapport au groupe qui était constitué de 3 ou 4 personne",
+    "yearStart": 2015,
+    "yearEnd" : 2015,
+    "duree" : "1 semestre",
+    "role" : "Concevoir, developper et tester le code",
+    "id" : 1
+  },
+  { "title" : "Création d'un système de robot intelligent parcourant une île à la recherche de ressources et utilisation d'outils de gestion et d'automatisation de production de projet",
+    "description":"Chaque semaine nous avions de nouveaux objectifs, de nouvelles fonctionnalités à rajouter pour pouvoir participer à un championnat était organisé entre les différentes équipes formées au sein des groupes. Le but final était de ramener remplir entièrement les objectifs visé de la semaine",
+    "contraintes" : "Nous devions rapidement se familiariser avec plusieurs outils notamment : Maven, IntelliJ et Git",
+    "yearStart": 2015,
+    "yearEnd" : 2015,
+    "duree" : "1 semestre",
+    "role" : "Concevoir, developper, tester et maintenir le code",
+    "id" : 1
+  }
+
+]

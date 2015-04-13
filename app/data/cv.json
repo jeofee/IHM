@@ -1,0 +1,48 @@
+[
+  { "title" : "Baccalauréat scientifique avec mention en suivant la spécialité mathématique aux Lycée Henri-matisse de Vence",
+    "description":"La qualité de ses élèves, l’ambition et l’exigence de ses professeurs contribuent à l'image positive de cette établissement et à l’excellence des résultats obtenus.",
+    "contraintes" : "Apprendre en seulement 3 semaine le langage JAVA.",
+    "yearStart": 2009,
+    "yearEnd" : 2009,
+    "id" : 0
+  },
+  { "title" : "Première année de médecine à l'Université de Nice-Sophia Antipolis.",
+    "description":"La santé est une la priorité principale dans toutes les sociétés. Il y a encore beaucoup de progrès à faire dans ce secteur et dans tous ces domaines.",
+    "yearStart": 2009,
+    "yearEnd" : 2010,
+    "id" : 1
+  },
+  { "title" : "Première année de Licence en spécialité Science de la vie et de la Santé avec mention",
+    "description":"Ce parcours était la continuité de la première année de médecine, mais il n'était pas centrée seulement sur l'homme mais sur toutes la biodiversité",
+    "contraintes" : "Nous devions rapidement se familiariser avec plusieurs outils notamment : Maven, IntelliJ et Git",
+    "yearStart": 2010,
+    "yearEnd" : 2011,
+    "id" : 1
+  },
+  { "title" : "Première année de médecine à l'Université de Nice-Sophia Antipolis.",
+    "description":"",
+    "yearStart": 2011,
+    "yearEnd" : 2012,
+    "id" : 1
+  },
+  { "title" : "Licence 1 d'informatique à l'Université de Nice-Sophia Antipolis avec mention",
+    "description":"Lors de ma première année de licence en faculté des sciences, j'ai constaté la richesse des formations proposées par l'Université de Nice-Sophia et je me suis intéressée à la partie informatique de la spécialité bio-informatique",
+    "yearStart": 2012,
+    "yearEnd" : 2013,
+    "id" : 1
+  },
+  { "title" : "Licence 2 d'informatique à l'Université de Nice-Sophia Antipolis avec mention",
+    "description":"",
+    "yearStart": 2013,
+    "yearEnd" : 2014,
+    "id" : 1
+  },
+  { "title" : "3ème année d'école d'ingénieurs en Informatique à Polytech Nice-Sophia Antipolis",
+    "description":"j'ai décidé de continuer mon cursus informatique en intégrant le premier réseau français des écoles d'ingénieurs polytechniques des universités. En intégrant l'école d'ingénieur Polytech Nice-Sophia Antipolis, j'ai voulu apprendre les bases fondamentales et techniques informatique lié au métier d'ingénieur. Le réseau prépare ses élèves à entrer dans le monde de l'entreprise en leur proposant une formation comportant des cours de connaissance de l'entreprise, des cours sur les fondements de l'informatique, de l'informatique appliquée, la réalisation de mini-projets individuels et collectifs ainsi que des stages en entreprise chaque année. Également ouverte à l'internationale, l'école propose des formations dans des domaines où les entreprises sont demandeurs et travaillent en étroite collaboration avec des partenaires tels que Accenture, Atos Origin Integration, Eurogiciel, IBM, Texas Instrument, Thales etc...",
+    "yearStart": 2014,
+    "yearEnd" : 2015,
+    "id" : 1
+  }
+
+]
+

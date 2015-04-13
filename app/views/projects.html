@@ -1,0 +1,14 @@
+<div class="jumbotron">
+    <h1> Mes Projets </h1>
+
+    <div class="panel panel-default" ng-repeat = "project in projects">
+        <div class="panel-heading"> <h2>{{project.title}} </h2></div>
+        <div class="panel-body"><p>{{project.description}}</p></div>
+        <ul class="list-group">
+            <li class="list-group-item">Contraintes : {{project.contraintes}}</li>
+            <li class="list-group-item">Date de début et fin du projet : {{project.yearStart}} - {{project.yearEnd}} </li>
+            <li class="list-group-item">Durée du projet : {{project.duree}} </li>
+            <li class="list-group-item">Role au sein du groupe : {{project.role}}</li></ul>
+    </div>
+</div>
+

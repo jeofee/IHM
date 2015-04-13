@@ -1,0 +1,10 @@
+<div class="jumbotron">
+  <h1> Mon CV </h1>
+
+  <div class="panel panel-default" ng-repeat = "donnee in cv">
+    <div class="panel-heading"> <h2>{{donnee.title}} </h2></div>
+    <div class="panel-body"><p>{{donnee.description}}</p></div>
+    <ul class="list-group">
+      <li class="list-group-item">Date : {{donnee.yearStart}} - {{donnee.yearEnd}} </li></ul>
+  </div>
+</div>
