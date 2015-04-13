@@ -1,19 +1,19 @@
-<div class="jumbotron">
-  <h1> En ce moment </h1>
 
+
+<ul class="list-group">
+  <li class="list-group-item list-group-item-info"> <h2> Pour me contacter : </h2></li>
+  <li class="list-group-item list-group-item-info"> Nom : {{description.nom}}</li>
+  <li class="list-group-item list-group-item-info">  Prénom : {{description.prenom}}</li>
+  <li class="list-group-item list-group-item-info">  Email : {{description.contact}}</li>
+</ul>
+
+<div class="jumbotron">
+
+  <h2> En ce moment </h2>
+  <h3> Voici les projets sur lesquelles je travaille actuellement : </h3>
   <div ng-repeat = "titre in about">
 
     <ul class="list-group">
       <li class="list-group-item"> {{titre.title}} </li></ul>
-  </div>
-</div>
-
-<div class="jumbotron">
-  <h1> En ce moment </h1>
-
-  <div ng-repeat = "titre in about">
-
-    <ul class="list-group">
-        <li class="list-group-item"> {{titre.title}} </li></ul>
   </div>
 </div>
